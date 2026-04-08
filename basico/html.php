@@ -1,0 +1,18 @@
+<div class="titulo">integração HTML</div>
+
+<h1>
+<?php
+echo 'Olá ';
+echo '<small>';
+echo 'mundo';
+echo '</small>'
+?>
+
+
+</h1>
+
+<?= "<div> Outra forma de me 'expressar'! </div>" ?>
+
+<br>
+<div>
+<button><?= "Botão" ?></button></div>
