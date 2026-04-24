@@ -26,4 +26,7 @@ var_dump($var);
 //as variáveis trocam de forma dinâmica (tipagem fraca)
 
 
+echo '<br>';
+var_dump($_SERVER["HTTP_HOST"]);
+
 ?>
